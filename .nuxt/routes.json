@@ -1,0 +1,30 @@
+[
+  {
+    "name": "booking___en",
+    "path": "/booking",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-patient/pages/booking/index.vue",
+    "chunkName": "pages/booking/index",
+    "_name": "_237f1448"
+  },
+  {
+    "name": "login___en",
+    "path": "/login",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-patient/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_d5c3da28"
+  },
+  {
+    "name": "signup___en",
+    "path": "/signup",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-patient/pages/signup/index.vue",
+    "chunkName": "pages/signup/index",
+    "_name": "_4a6aa38b"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/home/patrick/myproj/vue_proj/DEVELOPMENT/v2/mytca-booking-patient/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_757ca7dc"
+  }
+]
